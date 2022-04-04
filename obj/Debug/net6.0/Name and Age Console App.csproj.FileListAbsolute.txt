@@ -1,0 +1,15 @@
+C:\C#\repos\CSharp step by step\Name and Age Console App\bin\Debug\net6.0\Name and Age Console App.exe
+C:\C#\repos\CSharp step by step\Name and Age Console App\bin\Debug\net6.0\Name and Age Console App.deps.json
+C:\C#\repos\CSharp step by step\Name and Age Console App\bin\Debug\net6.0\Name and Age Console App.runtimeconfig.json
+C:\C#\repos\CSharp step by step\Name and Age Console App\bin\Debug\net6.0\Name and Age Console App.dll
+C:\C#\repos\CSharp step by step\Name and Age Console App\bin\Debug\net6.0\Name and Age Console App.pdb
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.csproj.AssemblyReference.cache
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.AssemblyInfoInputs.cache
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.AssemblyInfo.cs
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.csproj.CoreCompileInputs.cache
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.dll
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\refint\Name and Age Console App.dll
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.pdb
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\Name and Age Console App.genruntimeconfig.cache
+C:\C#\repos\CSharp step by step\Name and Age Console App\obj\Debug\net6.0\ref\Name and Age Console App.dll
